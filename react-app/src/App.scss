@@ -1,0 +1,13 @@
+$dracula-orchid: #c2dde5;
+$mint-leaf: #b85f00;
+
+html {
+  background-color: $dracula-orchid;
+}
+
+.app {
+  color: $mint-leaf;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 20px;
+}
